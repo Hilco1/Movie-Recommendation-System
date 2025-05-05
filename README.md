@@ -16,6 +16,7 @@ Summary: Advantages and Limitations of Content-Based Recommender Systems
 Advantages:
 
 -Adapts to individual preferences: The system tailors recommendations based solely on the user’s own tastes and interests.
+
 -Delivers highly relevant results: Because the suggestions are generated from a user’s past behavior, the recommendations tend to be closely aligned with what they like.
 
 Limitations:

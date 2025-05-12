@@ -13,6 +13,7 @@ Content-based filtering recommends items similar to those a user liked in the pa
 
 Collaborative filtering makes recommendations by finding patterns in user-item interactions. Types include user-based filtering (users with similar preferences) and item-based filtering (items liked by similar users).
 
+Movie reccomemendation sstem
 
 ![types_of_recomendation](https://github.com/user-attachments/assets/ad06578e-92e5-41ba-b8fd-bcc01efa4883)
 

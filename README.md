@@ -13,7 +13,7 @@ Content-based recommenders suggest items to users by analyzing the attributes or
 
 
 
-Summary: Advantages and Limitations of Content-Based Recommender Systems
+Summary: Advantages and Limitations of Content-Based Recommender System
 
 Advantages:
 

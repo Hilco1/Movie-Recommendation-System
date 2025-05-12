@@ -29,7 +29,7 @@ Limitations:
 
 -Limited discovery: Users are unlikely to be exposed to entirely new or diverse categories unless they explicitly interact with them, reducing content variety.
 
--Data extraction challenges: Some item features may not be straightforward to quantify or represent in the model.
+-Data extraction challenges: Some item features may not be straightforward to quantify or represent in the model
 
 
 A More Balanced Approach:

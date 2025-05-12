@@ -8,8 +8,9 @@ Content-Based Recommender Systems
 ------------------------------
 Content-based recommenders suggest items to users by analyzing the attributes or content of the items themselves. The idea is to recommend items that are similar to those the user has rated highly or shown interest in, based on their characteristics. The user profile is constructed by analyzing these preferences.
 
+![types_of_recomendation](https://github.com/user-attachments/assets/ad06578e-92e5-41ba-b8fd-bcc01efa4883)
 
-  ![Content Based Filtering ](https://github.com/user-attachments/assets/a0261666-9d95-440f-b0bb-a43a9ea04e57)
+
 
 Summary: Advantages and Limitations of Content-Based Recommender Systems
 

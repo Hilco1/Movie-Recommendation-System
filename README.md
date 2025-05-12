@@ -16,5 +16,7 @@ Collaborative filtering makes recommendations by finding patterns in user-item i
 ![types_of_recomendation](https://github.com/user-attachments/assets/ad06578e-92e5-41ba-b8fd-bcc01efa4883)
 
 
+gas
+------
 
 

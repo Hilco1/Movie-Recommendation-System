@@ -1,6 +1,6 @@
 🎬 Movie Recommendation System
 ------------------------------
-In this project, I’m creating a movie recommender model using a custom movie metadata dataset (MovieLens dataset) implementing both content-based and cast-based recommendation strategies.
+In this project, we are creating a movie recommender model using a custom movie metadata dataset (MovieLens dataset) implementing both content-based and cast-based recommendation strategies.
 Recommendation systems 
 
 The goal of this project is to build a system that recommends 5 similar movies to a user-selected title. A key challenge tackled is balancing between recommending based on content (such as genres and plot) and collaborative elements (like cast and director).

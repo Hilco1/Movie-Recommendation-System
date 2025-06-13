@@ -1,23 +1,23 @@
 🎬 Movie Recommendation System
 ------------------------------
-Recommender systems are algorithms designed to suggest relevant items to users based on their preferences, behaviors, or interactions. They help users discover content by automatically filtering and prioritizing information from vast item collections.
-
+In this project, I’m creating a movie recommender model using a custom movie metadata dataset (MovieLens dataset) implementing both content-based and cast-based recommendation strategies.
 Recommendation systems 
--
-They work by analyzing user behavior such as ratings, clicks, and purchases. They identify patterns to match users with similar users or items with similar items, and then use this information to predict what the user might want next.
 
+The goal of this project is to build a system that recommends 5 similar movies to a user-selected title. A key challenge tackled is balancing between recommending based on content (such as genres and plot) and collaborative elements (like cast and director).
 These systems are important because they help reduce information overload, enhance user engagement, and drive key business outcomes such as sales, retention, and content discovery.
 Common use cases include e-commerce, streaming platforms, social media, and personalized news.
 
-There are several types of recommender systems, each using different methods to generate suggestions.
+The dataset contains information about movies, including: Title, Plot, Genre, Cast, Director
+This rich metadata allows us to apply multiple recommendation strategies, especially useful in cases where user interaction data (ratings) is not available.
 
-Content-based 
--
-Content-based filtering recommends items similar to those a user liked in the past, based on item attributes such as genre, brand, or description.
 
-Collaborative filtering 
--
-Collaborative filtering makes recommendations by finding patterns in user-item interactions. Types include user-based filtering (users with similar preferences) and item-based filtering (items liked by similar users).
+Content-Based Filtering: Recommends movies based on metadata such as genre, director, cast, and plot keywords.
+
+Collaborative Filtering: Optionally uses user ratings and interactions (if provided) to improve recommendations.
+
+Similarity Metrics: Implements cosine similarity on TF-IDF vectors for textual features.
+
+Tunable Weighting: Allows combining different recommendation strategies (e.g., 50% content + 50% cast-based similarity).
 
 
 

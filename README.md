@@ -54,3 +54,8 @@ Each method has unique advantages:
 - Include advanced features like mood, pace, or actor popularity
 - Deploy using **Streamlit** or **Gradio** for live web-based interaction
 
+## 👥 Team 
+-Elvir Muslić
+-Faris Mutpačić
+-Hilal Ličina
+-Esma Mahmutović

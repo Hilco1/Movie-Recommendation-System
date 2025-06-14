@@ -11,10 +11,14 @@
   - [📘 Content-Based Filtering](#-content-based-filtering)
   - [👥 Collaborative Filtering](#-collaborative-filtering)
   - [🔀 Hybrid Filtering](#-hybrid-filtering)
-
+- [📈 Evaluation](#-evaluation)
+  - [🔍 Metric Definitions](#-metric-definitions)
+  - [✅ Insights](#-insights)
 - [🖼️ Poster Of Project](#️-poster-of-project)
 - [📌 Conclusion](#-conclusion)
+  - [🔮 Future Work](#-future-work)
 - [👥 Team](#-team)
+
 
 
 ## 📝 Introduction

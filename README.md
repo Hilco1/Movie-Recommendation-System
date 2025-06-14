@@ -1,8 +1,6 @@
 🎬 Movie Recommendation System
 ------------------------------
-
-##📝 Introduction
-
+## 📝 Introduction
 In this project, we are creating a movie recommender model using a custom movie metadata dataset (MovieLens dataset) implementing both content-based and cast-based recommendation strategies.
 Recommendation systems 
 

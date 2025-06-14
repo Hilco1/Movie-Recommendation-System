@@ -1,4 +1,4 @@
-<p align="center">A hybrid approach combining Content-Based and Collaborative Filtering</p>
+<p align="center"><strong>🎬 Movie Recommendation System</strong></p>
 
 ------------------------------
 ## 📝 Introduction

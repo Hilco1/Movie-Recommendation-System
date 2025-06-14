@@ -14,7 +14,7 @@ Common use cases include e-commerce, streaming platforms, social media, and pers
 The dataset contains information about movies, including: Title, Plot, Genre, Cast, Director
 This rich metadata allows us to apply multiple recommendation strategies, especially useful in cases where user interaction data (ratings) is not available.
 
-🧠 Approaches
+##🧠 Approaches
 ### 📘 Content-Based Filtering
 - Uses **TF-IDF vectorization** on movie genres, tags, and descriptions.
 - Recommends movies similar to the user's liked titles using **cosine similarity**.

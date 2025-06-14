@@ -33,7 +33,7 @@ This rich metadata allows us to apply multiple recommendation strategies, especi
 
 ![hybrid](https://github.com/user-attachments/assets/5b12fbbb-d523-4232-9f6a-71baa5114aa1)
 
+### 🖼️ Poster Of Project
 
-
-
+![final](https://github.com/user-attachments/assets/682e433b-0d84-4a4d-9ac0-9e6087a2efc3)
 

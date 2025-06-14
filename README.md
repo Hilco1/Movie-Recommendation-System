@@ -23,6 +23,7 @@ This rich metadata allows us to apply multiple recommendation strategies, especi
 - Trained using **Surprise’s SVD (Singular Value Decomposition)** algorithm.
 - Learns user preferences based on the behavior of similar users.
 - Handles user-item matrix efficiently for large datasets.
+![types_of_recomendation](https://github.com/user-attachments/assets/ad06578e-92e5-41ba-b8fd-bcc01efa4883)
 
 ### 🔀 Hybrid Filtering
 - Combines collaborative and content-based scores.
@@ -31,7 +32,7 @@ This rich metadata allows us to apply multiple recommendation strategies, especi
 
 
 
-![types_of_recomendation](https://github.com/user-attachments/assets/ad06578e-92e5-41ba-b8fd-bcc01efa4883)
+
 
 
 

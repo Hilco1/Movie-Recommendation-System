@@ -1,6 +1,21 @@
 <h1 align="center">🎬 Movie Recommendation System</h1>
 
 ------------------------------
+
+## 📚 Table of Contents
+
+- [📝 Introduction](#-introduction)
+- [🎯 Project Goals](#-project-goals)
+- [📁 Dataset](#-dataset)
+- [🧠 Approaches](#-approaches)
+  - [📘 Content-Based Filtering](#-content-based-filtering)
+  - [👥 Collaborative Filtering](#-collaborative-filtering)
+  - [🔀 Hybrid Filtering](#-hybrid-filtering)
+- [🖼️ Poster Of Project](#️-poster-of-project)
+- [📌 Conclusion](#-conclusion)
+- [👥 Team](#-team)
+
+
 ## 📝 Introduction
 In this project, we are creating a movie recommender model using a custom movie metadata dataset (MovieLens dataset) implementing both content-based and cast-based recommendation strategies.
 Recommendation systems 

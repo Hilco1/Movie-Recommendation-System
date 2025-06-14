@@ -68,6 +68,8 @@ These values were calculated by comparing each user's top 5 recommended movies t
 
 ### ✅ Insights
 
+![image](https://github.com/user-attachments/assets/bce53adf-6ae1-404d-ab1d-74f60a04f63e)
+
 - **Hybrid filtering** outperforms both individual methods by combining their strengths.
 - **Collaborative filtering** is more effective than content-based, especially in capturing user preferences.
 - **Content-based filtering** is weaker when used alone, due to its reliance on metadata without learning from user behavior.

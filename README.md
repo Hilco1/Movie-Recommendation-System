@@ -14,14 +14,20 @@ Common use cases include e-commerce, streaming platforms, social media, and pers
 The dataset contains information about movies, including: Title, Plot, Genre, Cast, Director
 This rich metadata allows us to apply multiple recommendation strategies, especially useful in cases where user interaction data (ratings) is not available.
 
+🧠 Approaches
+### 📘 Content-Based Filtering
+- Uses **TF-IDF vectorization** on movie genres, tags, and descriptions.
+- Recommends movies similar to the user's liked titles using **cosine similarity**.
 
-Content-Based Filtering: Recommends movies based on metadata such as genre, director, cast, and plot keywords.
+### 👥 Collaborative Filtering
+- Trained using **Surprise’s SVD (Singular Value Decomposition)** algorithm.
+- Learns user preferences based on the behavior of similar users.
+- Handles user-item matrix efficiently for large datasets.
 
-Collaborative Filtering: Optionally uses user ratings and interactions (if provided) to improve recommendations.
-
-Similarity Metrics: Implements cosine similarity on TF-IDF vectors for textual features.
-
-Tunable Weighting: Allows combining different recommendation strategies (e.g., 50% content + 50% cast-based similarity).
+### 🔀 Hybrid Filtering
+- Combines collaborative and content-based scores.
+- Balances both similarity and prediction for higher-quality recommendations.
+- Tested with different weight combinations to find optimal blending.
 
 
 

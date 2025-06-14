@@ -1,4 +1,4 @@
-<p align="center"><strong>🎬 Movie Recommendation System</strong></p>
+<h1 align="center">🎬 Movie Recommendation System</h1>
 
 ------------------------------
 ## 📝 Introduction

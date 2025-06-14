@@ -1,4 +1,5 @@
-🎬 Movie Recommendation System
+<p align="center">A hybrid approach combining Content-Based and Collaborative Filtering</p>
+
 ------------------------------
 ## 📝 Introduction
 In this project, we are creating a movie recommender model using a custom movie metadata dataset (MovieLens dataset) implementing both content-based and cast-based recommendation strategies.

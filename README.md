@@ -31,7 +31,7 @@ This rich metadata allows us to apply multiple recommendation strategies, especi
 - Balances both similarity and prediction for higher-quality recommendations.
 - Tested with different weight combinations to find optimal blending.
 
-
+![hybrid](https://github.com/user-attachments/assets/5b12fbbb-d523-4232-9f6a-71baa5114aa1)
 
 
 

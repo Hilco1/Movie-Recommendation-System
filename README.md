@@ -10,6 +10,7 @@ The goal of this project is to build a system that recommends 5 similar movies t
 These systems are important because they help reduce information overload, enhance user engagement, and drive key business outcomes such as sales, retention, and content discovery.
 Common use cases include e-commerce, streaming platforms, social media, and personalized news.
 
+## 📁 Dataset
 The dataset contains information about movies, including: Title, Plot, Genre, Cast, Director
 This rich metadata allows us to apply multiple recommendation strategies, especially useful in cases where user interaction data (ratings) is not available.
 

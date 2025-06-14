@@ -11,6 +11,7 @@
   - [📘 Content-Based Filtering](#-content-based-filtering)
   - [👥 Collaborative Filtering](#-collaborative-filtering)
   - [🔀 Hybrid Filtering](#-hybrid-filtering)
+
 - [🖼️ Poster Of Project](#️-poster-of-project)
 - [📌 Conclusion](#-conclusion)
 - [👥 Team](#-team)
@@ -47,6 +48,32 @@ This rich metadata allows us to apply multiple recommendation strategies, especi
 - Tested with different weight combinations to find optimal blending.
 
 ![hybrid](https://github.com/user-attachments/assets/5b12fbbb-d523-4232-9f6a-71baa5114aa1)
+
+## 📈 Evaluation
+
+To evaluate our recommendation system, we measured the performance of three filtering approaches using **Precision@5** and **Recall@5**:
+
+| Method           | Precision@5 | Recall@5 |
+|------------------|-------------|----------|
+| Content-Based    | 0.31        | 0.27     |
+| Collaborative    | 0.36        | 0.33     |
+| Hybrid           | 0.41        | 0.39     |
+
+These values were calculated by comparing each user's top 5 recommended movies to the movies they actually rated highly in the test set.
+
+### 🔍 Metric Definitions
+
+- **Precision@5**: The percentage of recommended movies that were actually relevant (liked by the user).
+- **Recall@5**: The percentage of relevant (liked) movies that were successfully recommended.
+
+### ✅ Insights
+
+- **Hybrid filtering** outperforms both individual methods by combining their strengths.
+- **Collaborative filtering** is more effective than content-based, especially in capturing user preferences.
+- **Content-based filtering** is weaker when used alone, due to its reliance on metadata without learning from user behavior.
+
+These results highlight the value of hybrid systems for delivering accurate and personalized movie recommendations.
+
 
 ### 🖼️ Poster Of Project
 

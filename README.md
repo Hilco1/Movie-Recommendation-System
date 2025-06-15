@@ -104,10 +104,10 @@ Each method has unique advantages:
 
 ### 🔮 Future Work
 
-- Add user feedback for real-time improvement
-- Expand with recent movie data
-- Include advanced features like mood, pace, or actor popularity
-- Deploy using **Streamlit** or **Gradio** for live web-based interaction
+- Add user feedback for real-time improvement.
+- Expand with recent movie data.
+- Include advanced features like mood, pace, or actor popularity.
+- Deploy using **Streamlit** or **Gradio** for live web-based interaction.
 
 ## 👥 Team 
 -Elvir Muslić
